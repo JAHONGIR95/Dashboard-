@@ -18,6 +18,7 @@ import Feedback from './pages/feedback/Feedback'
 import Message from './pages/message/Message'
 import Transactions from './pages/transactions/Transactions'
 import Sales from './pages/sales/Sales'
+import NotFoundPage from './pages/notFoundPage/NotFoundPage'
 
 
 function App() {
@@ -39,11 +40,13 @@ function App() {
           <Route path="/newproduct" component={NewProduct} />
           <Route path="/transactions" component={Transactions} /> 
           <Route path="/reports" component={Reports} /> 
+          <Route path="/report" component={Reports} /> 
           <Route path="/mail" component={Mail} /> 
           <Route path="/feedback" component={Feedback} /> 
           <Route path="/message" component={Message} /> 
           <Route path="/manage" component={Manage} /> 
           <Route path="/reports" component={Reports} /> 
+          <Route path="*" component={NotFoundPage} /> 
         </Switch>
       </div>
     </Router>

@@ -1,4 +1,14 @@
 .page{
     flex: 4;
     padding: 20px;
+
+    &.not-found{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+
+        :nth-child(2){
+            color: red;
+        }
+    }
 }
