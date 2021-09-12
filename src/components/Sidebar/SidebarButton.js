@@ -1,12 +1,15 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
-function SidebarButton({icon, title}) {
+function SidebarButton({icon, title, to}) {
     return (
         <>
-            <li className={`sidebar-list-item ${title === 'Home' ? 'active' : ''}`}>
-                {icon}
-                {title}
-            </li> 
+            <Link to={to} className="link">
+                <li className={`sidebar-list-item ${title === 'Home' ? 'active' : ''}`}>
+                    {icon}
+                    {title}
+                </li> 
+            </Link>
         </>
     )
 }
