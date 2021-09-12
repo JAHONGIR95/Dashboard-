@@ -9,6 +9,7 @@ import User from './pages/user/User.js'
 import NewUser from './pages/newUser/NewUser'
 import ProductList from './pages/productList/ProductList'
 import Product from './pages/product/Product'
+import NewProduct from './pages/newProduct/NewProduct'
 
 
 function App() {
@@ -24,6 +25,7 @@ function App() {
           <Route path="/newUser" component={NewUser} />
           <Route path="/products" component={ProductList} />
           <Route path="/product/:productId" component={Product} />
+          <Route path="/newproduct" component={NewProduct} />
         </Switch>
       </div>
     </Router>

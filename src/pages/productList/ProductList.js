@@ -16,7 +16,7 @@ function ProductList() {
         { 
             field: 'id',
             headerName: 'ID',
-            width: 90
+            width: 100,
         },
         {
           field: 'product',
