@@ -38,10 +38,9 @@ function Sidebar() {
                 ]}/>
                 <SidebarMenu title="Staff" buttons={[
                     {icon: <WorkOutline className="sidebar-icon"/>, to: "/manage", title: 'Manage'},
-                    {icon: <Timeline className="sidebar-icon"/>, to: "/analytics", title: 'Analytics'},
+                    {icon: <Timeline className="sidebar-icon"/>, to: "/analytic", title: 'Analytics'},
                     {icon: <Report className="sidebar-icon"/>, to: "/reports", title: 'Reports'},
                 ]}/>
-                     {/* <SidebarButton icon={<LineStyle />} title="Home" /> */}
             </div>
         </div>
     )
