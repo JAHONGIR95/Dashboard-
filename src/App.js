@@ -40,7 +40,7 @@ function App() {
           <Route path="/reports" component={Reports} /> 
           <Route path="/mail" component={Mail} /> 
           <Route path="/feedback" component={Feedback} /> 
-          <Route path="/messages" component={Message} /> 
+          <Route path="/message" component={Message} /> 
           <Route path="/manage" component={Manage} /> 
           <Route path="/reports" component={Reports} /> 
         </Switch>

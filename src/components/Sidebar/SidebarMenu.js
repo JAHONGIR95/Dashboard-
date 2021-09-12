@@ -9,7 +9,7 @@ function SidebarMenu({title, buttons}) {
             <ul className="sidebar-list">
                 {
                     buttons.map( (button) => (
-                        <SidebarButton key={button.title} icon={button.icon} title={button.title}/>
+                        <SidebarButton key={button.title} icon={button.icon} title={button.title} to={button.to}/>
                     ))
                 }
             </ul>
