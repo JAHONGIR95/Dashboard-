@@ -238,96 +238,96 @@ export const tableData = [
 export const productData = [
     { 
         id: 1,
-        name: 'Avatar', 
-        img: 'https://cdn-media.theathletic.com/cdn-cgi/image/fit=cover,width=700,height=466/QpPJS3u8eVPA_QpPJS3u8eVPA_kk64ZC65yUDx_original_1440x960.jpg',
+        name: 'Airpods', 
+        img: 'https://pyxis.nymag.com/v1/imgs/1dd/82a/26c9bafd08672aa84ff2a4f4d4b90dee93.jpg',
         stock: 123,
         status: 'active',
         price: '$122.00 '
     },
     { 
         id: 2,
-        name: 'Avatar', 
-        img: 'https://cdn-media.theathletic.com/cdn-cgi/image/fit=cover,width=700,height=466/QpPJS3u8eVPA_QpPJS3u8eVPA_kk64ZC65yUDx_original_1440x960.jpg',
+        name: 'Airpods', 
+        img: 'https://pyxis.nymag.com/v1/imgs/1dd/82a/26c9bafd08672aa84ff2a4f4d4b90dee93.jpg',
         stock: 123,
         status: 'active',
         price: '$122.00 '
     },
     { 
         id: 3,
-        name: 'Avatar', 
-        img: 'https://cdn-media.theathletic.com/cdn-cgi/image/fit=cover,width=700,height=466/QpPJS3u8eVPA_QpPJS3u8eVPA_kk64ZC65yUDx_original_1440x960.jpg',
+        name: 'Airpods', 
+        img: 'https://pyxis.nymag.com/v1/imgs/1dd/82a/26c9bafd08672aa84ff2a4f4d4b90dee93.jpg',
         stock: 123,
         status: 'active',
         price: '$122.00 '
     },
     { 
         id: 4,
-        name: 'Avatar', 
-        img: 'https://cdn-media.theathletic.com/cdn-cgi/image/fit=cover,width=700,height=466/QpPJS3u8eVPA_QpPJS3u8eVPA_kk64ZC65yUDx_original_1440x960.jpg',
+        name: 'Airpods', 
+        img: 'https://pyxis.nymag.com/v1/imgs/1dd/82a/26c9bafd08672aa84ff2a4f4d4b90dee93.jpg',
         stock: 123,
         status: 'active',
         price: '$122.00 '
     },
     { 
         id: 5,
-        name: 'Avatar', 
-        img: 'https://cdn-media.theathletic.com/cdn-cgi/image/fit=cover,width=700,height=466/QpPJS3u8eVPA_QpPJS3u8eVPA_kk64ZC65yUDx_original_1440x960.jpg',
+        name: 'Airpods', 
+        img: 'https://pyxis.nymag.com/v1/imgs/1dd/82a/26c9bafd08672aa84ff2a4f4d4b90dee93.jpg',
         stock: 123,
         status: 'active',
         price: '$122.00 '
     },
     { 
         id: 6,
-        name: 'Avatar', 
-        img: 'https://cdn-media.theathletic.com/cdn-cgi/image/fit=cover,width=700,height=466/QpPJS3u8eVPA_QpPJS3u8eVPA_kk64ZC65yUDx_original_1440x960.jpg',
+        name: 'Airpods', 
+        img: 'https://pyxis.nymag.com/v1/imgs/1dd/82a/26c9bafd08672aa84ff2a4f4d4b90dee93.jpg',
         stock: 123,
         status: 'active',
         price: '$122.00 '
     },
     { 
         id: 7,
-        name: 'Avatar', 
-        img: 'https://cdn-media.theathletic.com/cdn-cgi/image/fit=cover,width=700,height=466/QpPJS3u8eVPA_QpPJS3u8eVPA_kk64ZC65yUDx_original_1440x960.jpg',
+        name: 'Airpods', 
+        img: 'https://pyxis.nymag.com/v1/imgs/1dd/82a/26c9bafd08672aa84ff2a4f4d4b90dee93.jpg',
         stock: 123,
         status: 'active',
         price: '$122.00 '
     },
     { 
         id: 8 ,
-        name: 'Avatar', 
-        img: 'https://cdn-media.theathletic.com/cdn-cgi/image/fit=cover,width=700,height=466/QpPJS3u8eVPA_QpPJS3u8eVPA_kk64ZC65yUDx_original_1440x960.jpg',
+        name: 'Airpods', 
+        img: 'https://pyxis.nymag.com/v1/imgs/1dd/82a/26c9bafd08672aa84ff2a4f4d4b90dee93.jpg',
         stock: 123,
         status: 'active',
         price: '$122.00 '
     },
     { 
         id: 9,
-        name: 'Avatar', 
-        img: 'https://cdn-media.theathletic.com/cdn-cgi/image/fit=cover,width=700,height=466/QpPJS3u8eVPA_QpPJS3u8eVPA_kk64ZC65yUDx_original_1440x960.jpg',
+        name: 'Airpods', 
+        img: 'https://pyxis.nymag.com/v1/imgs/1dd/82a/26c9bafd08672aa84ff2a4f4d4b90dee93.jpg',
         stock: 123,
         status: 'active',
         price: '$122.00 '
     },
     { 
         id: 10,
-        name: 'Avatar', 
-        img: 'https://cdn-media.theathletic.com/cdn-cgi/image/fit=cover,width=700,height=466/QpPJS3u8eVPA_QpPJS3u8eVPA_kk64ZC65yUDx_original_1440x960.jpg',
+        name: 'Airpods', 
+        img: 'https://pyxis.nymag.com/v1/imgs/1dd/82a/26c9bafd08672aa84ff2a4f4d4b90dee93.jpg',
         stock: 123,
         status: 'active',
         price: '$122.00 '
     },
     { 
         id: 11,
-        name: 'Avatar', 
-        img: 'https://cdn-media.theathletic.com/cdn-cgi/image/fit=cover,width=700,height=466/QpPJS3u8eVPA_QpPJS3u8eVPA_kk64ZC65yUDx_original_1440x960.jpg',
+        name: 'Airpods', 
+        img: 'https://pyxis.nymag.com/v1/imgs/1dd/82a/26c9bafd08672aa84ff2a4f4d4b90dee93.jpg',
         stock: 123,
         status: 'active',
         price: '$122.00 '
     },
     { 
         id: 12,
-        name: 'Avatar', 
-        img: 'https://cdn-media.theathletic.com/cdn-cgi/image/fit=cover,width=700,height=466/QpPJS3u8eVPA_QpPJS3u8eVPA_kk64ZC65yUDx_original_1440x960.jpg',
+        name: 'Airpods', 
+        img: 'https://pyxis.nymag.com/v1/imgs/1dd/82a/26c9bafd08672aa84ff2a4f4d4b90dee93.jpg',
         stock: 123,
         status: 'active',
         price: '$122.00 '
