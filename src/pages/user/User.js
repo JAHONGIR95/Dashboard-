@@ -4,7 +4,8 @@ import './user.scss'
 import UserSingleInfo from './UserSingleInfo.js'
 import { Link } from 'react-router-dom'
 
-function User() {
+function User({ match}) {
+    console.log(match.params.userId);
     return (
         <div className="user">
             <div className="user-header-container">
